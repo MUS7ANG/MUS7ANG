@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🙌 my name is Salikh</h1>
 <h3 align="center">I am a beginner web developer. My journey in IT started about a year ago (+/-), where I took a couple of courses in Python. Afterwards, I started learning frameworks and later tried myself in many different directions, such as learning the Swift language and trying my hand at data science, but web development is what caught my attention the most! Currently, I am studying IT at college.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mus7ang" alt="mus7ang" /></a> </p>
-
 - 🌱 I’m currently learning **Django, DRF, FastAPI and more**
 
 - 📫 How to reach me **salikhgareev@icloud.com**
