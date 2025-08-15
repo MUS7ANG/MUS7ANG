@@ -1,24 +1,27 @@
 <h1 align="center">Hi 🙌 my name is Salikh</h1>
 <h3 align="center">
-I am a beginner web developer / Я начинающий веб-разработчик.  
-My journey in IT started in 2022 with Python courses / Мой путь в IT начался в 2022 году с курсов по Python.  
-Later I explored different areas, but backend development caught my attention the most / Потом я пробовал разные направления, но больше всего меня заинтересовала backend-разработка.  
-Currently, I am studying IT at college (3rd year) / Сейчас я учусь на 3 курсе колледжа по направлению IT.
+A passionate backend developer / Я увлечённый backend-разработчик.  
+I started my IT journey in 2022 with Python courses / Мой путь в IT начался в 2022 году с курсов по Python.  
+Now I work mostly with PHP/Laravel and Django, and explore JS/TS, React, Next.js, Tailwind and Firebase / Сейчас я в основном работаю с PHP/Laravel и Django, а также изучаю JS/TS, React, Next.js, Tailwind и Firebase.  
+Currently studying IT at college (3rd year) / Сейчас учусь на 3 курсе колледжа по направлению IT.
 </h3>
 
-- 🌱 I’m currently learning **Laravel, Django, DRF, FastAPI, Next.js, React, Tailwind, Firebase**  
-  / В данный момент изучаю Laravel, Django, DRF, FastAPI, Next.js, React, Tailwind и Firebase
-- 📫 How to reach me / Связаться со мной: **salikhgareev@icloud.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mus7ang&label=Profile%20views&color=0e75b6&style=flat" alt="mus7ang" /> </p>
+
+<h3 align="left">Connect with me / Связаться со мной:</h3>
+<p align="left">
+📫 salikhgareev@icloud.com
+</p>
 
 <h3 align="left">Languages and Tools / Языки и инструменты:</h3>
 <p align="left"> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -31,13 +34,16 @@ Currently, I am studying IT at college (3rd year) / Сейчас я учусь �
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -47,6 +53,6 @@ Currently, I am studying IT at college (3rd year) / Сейчас я учусь �
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mus7ang&show_icons=true&locale=en&layout=compact" alt="mus7ang" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mus7ang&show_icons=true&locale=en&layout=compact" alt="mus7ang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mus7ang&show_icons=true&locale=en" alt="mus7ang" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mus7ang&" alt="mus7ang" /></p>
