@@ -56,3 +56,6 @@ Currently studying IT at college (3rd year) / Сейчас учусь на 3 к�
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mus7ang&show_icons=true&locale=en&layout=compact" alt="mus7ang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mus7ang&" alt="mus7ang" /></p>
+
+![github contribution grid snake animation](https://github.com/mus7ang.png?snake)
+
